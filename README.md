@@ -1,5 +1,7 @@
 # ee-protocol-json
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-protocol-json.svg)](https://greenkeeper.io/)
+
 simple JSON streaming protocol. transmitts & receives JSON objects.
 
 ## build status
