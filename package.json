@@ -19,7 +19,7 @@
           "ee-class"                : "*"
         , "ee-error"                : "*"
         , "ee-types"                : "*"
-        , "ee-log"                  : "*"
+        , "ee-log"                  : ">=3.0.5"
     }
     , "devDependencies": {}
     , "optionalDependencies": {}
