@@ -18,7 +18,7 @@
     , "dependencies": {
           "ee-class"                : "*"
         , "ee-error"                : "*"
-        , "ee-types"                : "*"
+        , "ee-types"                : ">=3.0.1"
         , "ee-log"                  : "*"
     }
     , "devDependencies": {}
